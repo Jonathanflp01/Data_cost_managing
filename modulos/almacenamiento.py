@@ -22,6 +22,7 @@ def cargar_materiales():
         return pd.DataFrame()
 
 
-print("")
+def
+
 # Prueba de la función
 print(cargar_materiales())
